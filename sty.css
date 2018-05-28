@@ -1,0 +1,13 @@
+.zoomcard:hover {
+    transform: scale(1.2);
+  /* -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    overflow:hidden;*/
+    
+}/*
+.zoomcard
+    {
+       
+        transform: rotate(10deg);
+        transition-delay: 2s;
+    }*/
